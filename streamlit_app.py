@@ -187,7 +187,7 @@ mode = st.radio(
 
 if mode == "Single Customer Input":
 
-    df = pd.read_csv(r"C:\Users\BHOOSHITHA\OneDrive\Desktop\course\project_coustmer_segmentation\data\online_retail_II.csv")
+    df = pd.read_csv("data/online_retail_II.csv")
 
     df["Invoice"] = df["Invoice"].astype(str)
     df["Description"] = df["Description"].astype(str)
