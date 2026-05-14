@@ -85,3 +85,9 @@ The Product Recommendation feature is implemented inside the Streamlit applicati
 
 Live Demo
 Streamlit App :https://customer-segmentation-project-q9ttqvdahgdyauh4xuiuct.streamlit.app/
+
+Customer Segmentation 
+
+Live API Deployment :https://customer-segmentation-project-fwcs.onrender.com
+
+Swagger UI :https://customer-segmentation-project-fwcs.onrender.com/docs
