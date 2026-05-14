@@ -3,7 +3,7 @@ import pandas as pd
 import datetime as dt
 import joblib
 
-df=pd.read_csv(r"C:\Users\BHOOSHITHA\OneDrive\Desktop\course\project_coustmer_segmentation\data\online_retail_II.csv")
+df = pd.read_csv("data/online_retail_II.csv")
 
 df=df.dropna(subset=["Customer ID"])
 
