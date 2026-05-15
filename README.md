@@ -91,3 +91,51 @@ Customer Segmentation
 Live API Deployment :https://customer-segmentation-project-fwcs.onrender.com
 
 Swagger UI :https://customer-segmentation-project-fwcs.onrender.com/docs
+
+
+Upload csv
+
+<img width="1917" height="1077" alt="customer segmentation (upload csv)" src="https://github.com/user-attachments/assets/1fcb1c36-d6a3-492d-8185-c01f00a4ca2a" />
+
+
+Customer Segmentation Result
+
+<img width="1917" height="1078" alt="customer segmentation result" src="https://github.com/user-attachments/assets/bc51986b-a337-48e5-904c-ae0ee0fe0872" />
+
+
+Customer Segments Graph
+
+<img width="1918" height="1078" alt="customer segments graph" src="https://github.com/user-attachments/assets/eaeb207d-b726-4e2b-ac46-166ff9c21f81" />
+
+
+Rule Based Recommendation System 
+
+<img width="1912" height="792" alt="rule based recommdation system" src="https://github.com/user-attachments/assets/2fe89ada-df3d-46b0-8981-e30087bb20c2" />
+
+
+Product Based Recommendation System
+
+<img width="1918" height="627" alt="product recommdation result" src="https://github.com/user-attachments/assets/cd17f267-8c8f-476a-8d3e-112e3de336a6" />
+
+
+Customer Based Recommendation System
+
+<img width="1908" height="1078" alt="customer recommdation system" src="https://github.com/user-attachments/assets/7616d749-d4c6-490e-be91-e6ec527d489b" />
+
+
+Customer Segmentation Swagger UI
+
+<img width="1918" height="1077" alt="customer segmenation Swagger UI" src="https://github.com/user-attachments/assets/87bac426-dd8a-4845-b931-2b0ae64bd2df" />
+
+
+Customer Segmentation Swagger UI Result
+
+<img width="1918" height="1078" alt="Customer segmentation Swagger UI result" src="https://github.com/user-attachments/assets/b18be5c1-e302-4774-a08e-7b7df6f83bf8" />
+
+
+
+
+
+
+
+
