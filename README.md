@@ -93,6 +93,21 @@ Live API Deployment :https://customer-segmentation-project-fwcs.onrender.com
 Swagger UI :https://customer-segmentation-project-fwcs.onrender.com/docs
 
 
+Single Input
+
+<img width="1918" height="1077" alt="Single Input customer segmenation" src="https://github.com/user-attachments/assets/4fa7855e-8395-48af-ad1d-a68e3d57e3b5" />
+
+
+Single Input customer Segmentation Result 
+
+<img width="1918" height="1077" alt="Result of Single Input customer segmentation" src="https://github.com/user-attachments/assets/31b95bf7-8f68-4616-b399-c796b878cab8" />
+
+
+Single Input Recommendation System
+
+<img width="1912" height="1078" alt="Single Input Recommndation system" src="https://github.com/user-attachments/assets/5609348a-621a-4b3e-9545-59505151e46d" />
+
+
 Upload csv
 
 <img width="1917" height="1077" alt="customer segmentation (upload csv)" src="https://github.com/user-attachments/assets/1fcb1c36-d6a3-492d-8185-c01f00a4ca2a" />
